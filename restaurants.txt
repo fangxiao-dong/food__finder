@@ -1,2 +1,5 @@
 Hot Tamale	Mexican	25
 Cafe Masala	Indian	30
+Chiptole	Mexician	10
+Han Dynasty	Chinese	30
+lotus garden	chinese	30
